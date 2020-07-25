@@ -1,4 +1,4 @@
-# node-js-Passaword Management System
+# Node-js-Passaword Management System
 # install packages:
 npm install
 # Run and Start
